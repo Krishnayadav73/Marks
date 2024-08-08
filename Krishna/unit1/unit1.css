@@ -1,0 +1,42 @@
+h3{
+  font-size: 50px;
+}
+
+.nav1{
+  height: 50pt;
+  display: flex;
+  font-size: 15px;
+  list-style: none;
+  gap: 60px;
+  border: 1.5px solid black;
+  text-decoration: none;
+  font-size: 40px;
+        
+
+}
+li{
+  padding-top: 7px;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+}
+a{
+  text-decoration: none;
+}
+span{
+  font-size: 30px;
+}
+.h3{
+  position: relative;
+  bottom: -30px;
+}
+hr{
+border: 1.0px solid black;
+}
+img{
+  width: 400px;
+}
+.fildest{
+  height: 110px;
+  justify-content: center;
+}
